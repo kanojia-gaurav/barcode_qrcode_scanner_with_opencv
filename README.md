@@ -1,0 +1,1 @@
+# barcode_qrcode_scanner_with_opencv
